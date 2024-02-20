@@ -9,7 +9,6 @@ Meu primeiro portfolio em estado experimental, um designer simples e funcional.
 ![Web 1](https://github.com/Cyber-L4b/cyberGamer/blob/main/img/Layout.png)
 
 # Tecnologias utilizadas
-- Javascript
 - HTML / CSS
 
 
